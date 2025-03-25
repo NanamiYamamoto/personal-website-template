@@ -1,6 +1,6 @@
 {
   "header": {
-    "name": "Your Name"
+    "name": "Nanami Yamamoto"
   },
   "nav": {
     "bio": "About",
@@ -10,21 +10,23 @@
     "contact": "Contact"
   },
   "bio": {
-    "name": "Your Name",
-    "nameJp": "あなたの名前",
-    "phd": "",
-    "phdJp": "博士（工学）",
-    "position": "Postdoctoral Researcher",
+    "name": "Nanami Yamamoto",
+    "nameJp": "山本七海",
+    "phd": "Bachelor",
+    "phdJp": "学士（工学）",
+    "position": "Master Course Student",
     "affiliation": "Institute of Engineering Innovation, The University of Tokyo",
-    "github": "https://github.com/yourusername",
-    "scholar": "https://scholar.google.com/citations?user=your-id",
-    "orcid": "https://orcid.org/0000-0000-0000-0000",
-    "researchmap": "https://researchmap.jp/yourusername",
-    "linkedin": "https://www.linkedin.com/in/yourusername/",
+    "github": "",
+    "scholar": "",
+    "orcid": "",
+    "researchmap": "",
+    "linkedin": "",
     "researchInterests": "Research Interests",
     "researchTags": [
-      "Mathematics",
-      "Physics"
+      "Electron Microscopy",
+      "Atomic resolution observation",
+      "Beam sensitive material"
+      
     ]
   },
   "publications": {
@@ -60,7 +62,7 @@
     "location": "Location",
     "relatedLinks": "Related Links",
     "email": "Email",
-    "emailAdress": "your.email[at]example.com",
+    "emailAdress": "yamamoto@sigma.t.u-tokyo.ac.jp",
     "phone": "Phone",
     "phoneNumber": "+81-3-5841-7689",
     "address": "Address",
